@@ -2,7 +2,7 @@
 2 - Dentro do método main sua classe deverá:
 3 - Perguntar ao usuário quantos alunos ele irá inserir.
 4 - Para cada aluno ele deverá perguntar:
-	a - Digite a nota do X(o) aluno(a);
+	a - Digite a nome do X(o) aluno(a);
 	b - Digite a nota do X(o) aluno(a);
 5- Ao final da execução seu programa deverá escrever:
 	a- A média da turma é {media}: 
